@@ -7,7 +7,7 @@ from langchain_community.embeddings import OllamaEmbeddings
 # from langchain_ollama import OllamaEmbeddings
 
 # Set paths
-PDF_PATH = "C:/Users/Adeks/Desktop/AskMe/data/FaQ_for_EasyTech.pdf"
+PDF_PATH = "data/FaQ_for_EasyTech.pdf"
 CHROMA_DIR = "/chroma"
 
 # Load PDF text
